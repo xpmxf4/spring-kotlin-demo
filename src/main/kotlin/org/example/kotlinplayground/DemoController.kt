@@ -10,6 +10,8 @@ class DemoController {
 
     @GetMapping
     fun sayHello(): String {
-        return "Hello, Spring Boot with Kotlin?"
+        return "코틀린 한잔 하실례에?"
     }
+
+
 }
